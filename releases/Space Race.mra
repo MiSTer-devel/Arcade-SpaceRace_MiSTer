@@ -5,7 +5,7 @@
 	<mratimestamp>20210228</mratimestamp>
 	<year>1973</year>
 	<manufacturer>Atari</manufacturer>
-	<category>TTL * Racing</category>
+	<category>Racing</category>
 	<rbf>spacerace</rbf>
 	<switches default="0A">
 		<dip bits="0" name="Credit per coin" ids="One,Two"/>
