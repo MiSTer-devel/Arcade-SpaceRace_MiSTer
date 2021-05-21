@@ -11,7 +11,7 @@
 	<manufacturer>Atari</manufacturer>
 	<category>Racing</category>
 
-	<setname></setname>
+	<setname>spacerace</setname>
 	<parent></parent>
 	<mameversion></mameversion>
 	<rbf>spacerace</rbf>
