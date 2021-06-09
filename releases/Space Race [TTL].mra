@@ -12,7 +12,7 @@
 	<category>Racing</category>
 
 	<setname>spacerace</setname>
-	<parent></parent>
+	<parent>spacerace</parent>
 	<mameversion></mameversion>
 	<rbf>spacerace</rbf>
 	<about></about>
